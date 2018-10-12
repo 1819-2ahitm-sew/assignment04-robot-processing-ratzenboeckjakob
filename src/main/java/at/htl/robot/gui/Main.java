@@ -8,7 +8,7 @@ import processing.core.PApplet;
 public class Main extends PApplet {
 
     int upperMargin = 40;
-    int leftMargin = 20;
+    int leftMargin = 40;
     int boxLength = 50;
     Robot robot;
 
