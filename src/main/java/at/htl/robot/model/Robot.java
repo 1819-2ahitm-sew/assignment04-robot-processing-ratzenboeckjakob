@@ -32,6 +32,8 @@ public class Robot {
     public void setDirection(Direction direction) {
         this.direction = direction;
     }
+
+
     //endregion
 
     public int stepForward() {
